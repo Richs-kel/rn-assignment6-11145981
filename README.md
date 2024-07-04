@@ -56,6 +56,7 @@
 
 These choices make the system efficient, secure, and easy to maintain, providing a solid foundation for your online store. 
 
+![Screenshot (40)](https://github.com/Richs-kel/rn-assignment6-11145981/assets/137410506/b2c764e6-21e0-46ae-9dae-5ca19966f855)
 
 
 
